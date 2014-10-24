@@ -1,4 +1,3 @@
-```Monkey
 # Vsat - Monkey-X game framework
 
 **Vsat** is a framework for the [Monkey-X programming language](http://monkey-x.com). It buids on top of the standard monkey modules and enables you to build your games faster.
@@ -31,6 +30,8 @@
 All code is written in pure monkey so it is cross platform. If you don't like the framework part you can just use **foundation** and **coregfx** – they don't impose any structure on your project. All **extra** modules have to be imported.
 
 ##Example
+```Monkey
+
 	'buildopt: run
 	Import vsat
 
@@ -95,3 +96,4 @@ All code is written in pure monkey so it is cross platform. If you don't like th
 		End
 	
 	End
+```
