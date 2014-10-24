@@ -1,0 +1,12 @@
+#strings
+window.title = " Hello There"
+" spaces " = spaces
+#numbers
+hp = 100
+mp = 9
+fire = -50
+resistance = 0.4
+
+#bool
+visible = True
+"can see" = YES
